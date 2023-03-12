@@ -35,3 +35,14 @@ body {
 .description {
   color: #b89600;
 }
+
+.dropdown-menu {
+    opacity: .75;
+    background-color: black;
+}
+
+.dropdown-item {
+    color: #b89600;
+    opacity: 1;
+}
+
