@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #14495e;
+  background: linear-gradient(to right, #212529 68.5%, #b89600);
 }
 
 .eyes {
@@ -30,4 +30,8 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50%;
+}
+
+.description {
+  color: #b89600;
 }
